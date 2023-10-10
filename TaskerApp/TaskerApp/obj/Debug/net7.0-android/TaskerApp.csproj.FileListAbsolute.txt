@@ -971,3 +971,7 @@ C:\Udemy\MAUI\TaskerAppMAUI\TaskerApp\TaskerApp\obj\Debug\net7.0-android\stamp\_
 C:\Udemy\MAUI\TaskerAppMAUI\TaskerApp\TaskerApp\obj\Debug\net7.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Udemy\MAUI\TaskerAppMAUI\TaskerApp\TaskerApp\obj\Debug\net7.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Udemy\MAUI\TaskerAppMAUI\TaskerApp\TaskerApp\obj\Debug\net7.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Udemy\MAUI\TaskerAppMAUI\TaskerApp\TaskerApp\obj\Debug\net7.0-android\resizetizer\f\PTSerif-Regular.ttf
+C:\Udemy\MAUI\TaskerAppMAUI\TaskerApp\TaskerApp\obj\Debug\net7.0-android\TaskerApp.csproj.Fody.CopyLocal.cache
+C:\Udemy\MAUI\TaskerAppMAUI\TaskerApp\TaskerApp\obj\Debug\net7.0-android\TaskerApp.csproj.Fody.RuntimeCopyLocal.cache
+C:\Udemy\MAUI\TaskerAppMAUI\TaskerApp\TaskerApp\obj\Debug\net7.0-android\android\assets\PropertyChanged.dll

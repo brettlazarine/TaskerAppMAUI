@@ -1,4 +1,5 @@
 is_global = true
+build_property.PropertyChangedAnalyzerConfiguration = 
 build_property.TargetFramework = net7.0-windows10.0.19041.0
 build_property.TargetPlatformMinVersion = 10.0.17763.0
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -27,6 +28,24 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskerApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Udemy/MAUI/TaskerAppMAUI/TaskerApp/TaskerApp/MVVM/Views/MainView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerApp.MVVM.Views.MainView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\MainView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\MainView.xaml
+
+[C:/Udemy/MAUI/TaskerAppMAUI/TaskerApp/TaskerApp/MVVM/Views/NewTaskView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerApp.MVVM.Views.NewTaskView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\NewTaskView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\NewTaskView.xaml
+
+[C:/Udemy/MAUI/TaskerAppMAUI/TaskerApp/TaskerApp/Resources/Styles/AppStyles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerApp.Resources.Styles.AppStyles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\AppStyles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\AppStyles.xaml
 
 [C:/Udemy/MAUI/TaskerAppMAUI/TaskerApp/TaskerApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
